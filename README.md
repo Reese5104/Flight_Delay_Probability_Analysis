@@ -1,4 +1,4 @@
-# STAT 562 Project 1 — Flight Delay Probability Analysis
+# Flight Delay Probability Analysis
 
 ## Overview
 
