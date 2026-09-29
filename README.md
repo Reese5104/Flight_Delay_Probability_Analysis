@@ -14,8 +14,6 @@ The analysis focuses on five discrete probability distributions:
 
 The project follows a reproducible data-analysis workflow from **data cleaning → exploratory analysis → probability modeling → simulation → visualization → interpretation**.
 
-> **Project Status:** The analysis framework and R workflow are complete. Dataset-specific findings and statistical results are populated after the final flight-delay dataset is processed.
-
 ---
 
 ## Key Findings
@@ -51,8 +49,6 @@ The completed analysis will summarize:
 **Practical Interpretation**
 
 * Translation of statistical results into understandable conclusions about flight-delay behavior.
-
-> Dataset-specific numerical findings will be added here after the final dataset is analyzed so that all reported values are reproducible.
 
 ---
 
