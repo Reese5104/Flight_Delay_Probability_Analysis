@@ -1,2 +1,2 @@
-p,expected_wait_days,variance,probability_first_day,probability_wait_over_5_days
-1,1,0,1,0
+p,expected_wait_days,variance,probability_first_day,probability_wait_over_5_days,event_definition
+0.4876760563380282,2.050541516245487,2.1541789936008544,0.4876760563380282,0.03529581922009542,daily proportion of flights with DEP_DELAY > 30 minutes >= 0.1

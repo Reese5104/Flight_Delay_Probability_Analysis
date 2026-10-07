@@ -1,2 +1,2 @@
-duplicate_rows
-0
+duplicate_key,duplicate_key_rows
+"fl_date, airline, origin, dest, fl_number",0

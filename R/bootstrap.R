@@ -11,4 +11,5 @@ if (is.null(script_file) || !nzchar(script_file)) {
 
 project_root <- normalizePath(file.path(dirname(script_file), ".."))
 setwd(project_root)
+source(file.path(project_root, "R", "config.R"))
 source(file.path(project_root, "R", "helpers.R"))

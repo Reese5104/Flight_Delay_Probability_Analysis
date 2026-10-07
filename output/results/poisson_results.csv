@@ -1,2 +1,2 @@
-lambda,theoretical_mean,theoretical_variance,empirical_mean,empirical_variance,probability_zero,probability_at_least_one
-582.6543427230034,582.6543427230034,582.6543427230034,582.6543427230034,73845.02959945038,9.045531668396171e-254,1
+lambda,theoretical_mean,theoretical_variance,empirical_mean,empirical_variance,probability_zero,probability_at_least_one,variance_to_mean_ratio
+582.6543427230034,582.6543427230034,582.6543427230034,582.6543427230034,73845.02959945038,9.045531668396171e-254,1,126.73900147099161

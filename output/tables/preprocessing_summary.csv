@@ -1,2 +1,2 @@
-rows_raw,rows_cleaned,date_column,delay_column,granularity
-3000000,2922356,fl_date,dep_delay,flight-level record
+rows_raw,rows_cleaned,date_column,delay_column,granularity,observation_unit,first_observation,last_observation,observed_intervals,calendar_intervals,complete_daily_calendar,delayed_definition,geometric_definition
+3000000,2922356,fl_date,dep_delay,flight-level record,day,2019-01-01,2023-08-31,1704,1704,TRUE,DEP_DELAY > 0 minutes,daily proportion of flights with DEP_DELAY > 30 minutes is at least 0.1

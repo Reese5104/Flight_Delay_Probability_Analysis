@@ -1,2 +1,2 @@
-n,p,expected_value,variance,probability_no_successes,probability_at_least_one
-10,1,10,0,0,1
+n,p,expected_value,variance,probability_no_successes,probability_at_least_one,event_definition
+10,0.27523474178403756,2.7523474178403755,1.9948057869911173,0.039992050453900356,0.9600079495460996,daily delayed-flight rate > 0.4

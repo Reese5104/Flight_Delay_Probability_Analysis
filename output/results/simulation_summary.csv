@@ -1,2 +1,6 @@
-poisson_mean,binomial_mean,geometric_days_mean,negative_binomial_trials_mean,hypergeometric_mean,poisson_variance,binomial_variance,geometric_days_variance,negative_binomial_trials_variance,hypergeometric_variance
-582.7471,10,1,14.78,33.952,583.782719861985,0,0,28.66406640664061,22.167712771277923
+distribution,simulated_mean,simulated_variance,theoretical_mean,theoretical_variance,simulation_status
+binomial,2.756,1.9888628862885696,2.7523474178403755,1.9948057869911173,simulated
+geometric,2.0613,2.1649588058803704,2.050541516245487,2.1541789936008544,simulated
+hypergeometric,33.9322,22.539457105710706,33.97406065517001,22.430932767466967,simulated
+negative_binomial,14.7475,28.42578632863266,14.717110358838205,28.60155710400635,simulated
+poisson,582.7471,583.782719861985,582.6543427230034,582.6543427230034,simulated
